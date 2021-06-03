@@ -1,0 +1,6 @@
+defaults:
+  train:
+    seed: 1234567890
+  - dataset: stl10
+  - optimizer: sgd
+

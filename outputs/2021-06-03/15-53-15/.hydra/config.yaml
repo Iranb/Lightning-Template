@@ -1,0 +1,4 @@
+dataset:
+  name: stl10
+optimizer:
+  name: sgd

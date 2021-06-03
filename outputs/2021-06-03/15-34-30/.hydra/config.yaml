@@ -1,0 +1,4 @@
+train:
+  epoch: 10
+database:
+- name: cifar10
